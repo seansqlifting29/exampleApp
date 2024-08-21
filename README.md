@@ -44,6 +44,17 @@ Getting this Expo project up and running was an exciting challenge and a valuabl
 5. **Overcoming Hurdles**
     - Setting up my development environment involved troubleshooting a few issues with global installs and system pathways. I learned to check and adjust environment variables, which was a rewarding hurdle to overcome.
 
+6. **Running My First Application**
+    - Once everything was set up, I was able to run my first Expo project smoothly:
+      ```bash
+      expo start
+      ```
+    - I then used the Expo Go app on my device to see my project come to life by scanning the QR code.
+
+<p align="center">
+  <img src="https://github.com/seansqlifting29/exampleApp/blob/main/reacto/images/WhatsApp%20Image%202023-10-25%20at%2016.22.32_79cee7c2.jpg" alt="First App Running 2" width="250">
+</p>
+
 ## Learning Android Studio and Emulators
 
 During this project, I also became familiar with Android Studio and how to set up emulators on my machine. This was crucial for testing mobile applications without needing a physical device. Here’s what I documented:
@@ -55,17 +66,6 @@ During this project, I also became familiar with Android Studio and how to set u
 <p align="center">
   <img src="https://raw.githubusercontent.com/seansqlifting29/exampleApp/main/reacto/images/WhatsApp%20Image%202023-10-24%20at%2023.19.35_ca53a307.jpg" alt="Image 1 Description" width="450">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/seansqlifting29/exampleApp/blob/main/reacto/images/WhatsApp%20Image%202023-10-25%20at%2018.21.56_0e227dda.jpg" alt="Image 2 Description" width="450">
-</p>
-
-6. **Running My First Application**
-    - Once everything was set up, I was able to run my first Expo project smoothly:
-      ```bash
-      expo start
-      ```
-    - I then used the Expo Go app on my device to see my project come to life by scanning the QR code.
-
-<p align="center">
-  <img src="https://github.com/seansqlifting29/exampleApp/blob/main/reacto/images/WhatsApp%20Image%202023-10-25%20at%2016.22.32_79cee7c2.jpg" alt="First App Running 2" width="250">
 </p>
 
 
