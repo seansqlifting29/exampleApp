@@ -38,7 +38,7 @@ Getting this Expo project up and running was an exciting challenge and a valuabl
     - During this process, I learned about how JavaScript module bundlers work, which handle transforming and bundling JavaScript files for use in a web browser. This was key in understanding how my code was being executed.
     
 <p align="center">
-  <img src="https://github.com/yourusername/yourrepository/blob/main/images/module-bundler-learning.png" alt="Module Bundler Learning" width="300">
+  <img src="https://github.com/seansqlifting29/exampleApp/blob/main/reacto/images/WhatsApp%20Image%202023-10-25%20at%2018.22.53_b1e72866.jpg" width="900">
 </p>
 
 5. **Overcoming Hurdles**
