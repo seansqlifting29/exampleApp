@@ -1,19 +1,30 @@
-# Example App using Expo
+# My First Expo App
 
-![Project Logo](https://example.com/logo.png)
+![Expo Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) <!-- Optional: Add a relevant image or keep the Expo logo -->
 
-**Brief description**: A short summary of what your project does and why it's useful.
+**Description**: This is a basic React Native application created using Expo. It serves as an entry point into mobile app development with React Native and Expo.
 
 ## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
+- [Getting Started](#getting-started)
+- [Setup and Installation](#setup-and-installation)
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
+- [Contact](#contact)
 
-## Installation
+## Getting Started
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/yourprojectname.git
+This project is a simple template to help you start your journey with React Native and Expo.
+
+## Setup and Installation
+
+To run this project locally, you'll need to have the following software installed:
+
+### Prerequisites
+
+- **Node.js**: You can download it from [here](https://nodejs.org/).
+- **Expo CLI**: Install with npm.
+  ```bash
+  npm install -g expo-cli
+
 
