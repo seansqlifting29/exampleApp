@@ -52,7 +52,7 @@ Getting this Expo project up and running was an exciting challenge and a valuabl
     - I then used the Expo Go app on my device to see my project come to life by scanning the QR code.
 
 <p align="center">
-  <img src="https://github.com/seansqlifting29/exampleApp/blob/main/reacto/images/WhatsApp%20Image%202023-10-25%20at%2016.22.32_79cee7c2.jpg" alt="First App Running 2" width="500">
+  <img src="https://github.com/seansqlifting29/exampleApp/blob/main/reacto/images/WhatsApp%20Image%202023-10-25%20at%2016.22.32_79cee7c2.jpg" alt="First App Running 2" width="250">
 </p>
 
 ## Learning Android Studio and Emulators
