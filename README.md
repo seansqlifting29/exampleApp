@@ -36,6 +36,10 @@ Getting this Expo project up and running was an exciting challenge and a valuabl
 
 4. **Understanding JavaScript Module Bundlers**
     - During this process, I learned about how JavaScript module bundlers work, which handle transforming and bundling JavaScript files for use in a web browser. This was key in understanding how my code was being executed.
+    
+<p align="center">
+  <img src="https://github.com/yourusername/yourrepository/blob/main/images/module-bundler-learning.png" alt="Module Bundler Learning" width="300">
+</p>
 
 5. **Overcoming Hurdles**
     - Setting up my development environment involved troubleshooting a few issues with global installs and system pathways. I learned to check and adjust environment variables, which was a rewarding hurdle to overcome.
@@ -47,6 +51,11 @@ Getting this Expo project up and running was an exciting challenge and a valuabl
       ```
     - I then used the Expo Go app on my device to see my project come to life by scanning the QR code.
 
+<p align="center">
+  <img src="https://github.com/yourusername/yourrepository/blob/main/images/first-app-running1.png" alt="First App Running 1" width="300">
+  <img src="https://github.com/yourusername/yourrepository/blob/main/images/first-app-running2.png" alt="First App Running 2" width="300">
+</p>
+
 ## Learning Android Studio and Emulators
 
 During this project, I also became familiar with Android Studio and how to set up emulators on my machine. This was crucial for testing mobile applications without needing a physical device. Here’s what I documented:
@@ -55,8 +64,7 @@ During this project, I also became familiar with Android Studio and how to set u
 - **Creating and Using Emulators**: Set up emulators to test the app, which helped simulate various device environments.
 
 <p align="center">
-  <img src="https://github.com/yourusername/yourrepository/blob/main/images/android-studio-setup.png" alt="Android Studio Setup" width="300">
-  <img src="https://github.com/yourusername/yourrepository/blob/main/images/emulator-running.png" alt="Emulator Running" width="300">
+  <img src="https://github.com/yourusername/yourrepository/blob/main/images/android-studio-emulator-setup.png" alt="Android Studio Emulator Setup" width="300">
 </p>
 
 ## Future Plans
