@@ -63,12 +63,11 @@ During this project, I also became familiar with Android Studio and how to set u
 - **Setting Up Android Studio**: Installed Android Studio and configured it to create virtual devices.
 - **Creating and Using Emulators**: Set up emulators to test the app, which helped simulate various device environments.
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/seansqlifting29/exampleApp/main/reacto/images/WhatsApp%20Image%202023-10-24%20at%2023.19.35_ca53a307.jpg" alt="Image 1 Description" width="450" style="margin-right: 40px;">
-  <img src="https://www.pngfind.com/pngs/m/34-344956_transparent-placeholder-image-10x10-pixels-hd-png-download.png" alt="spacer" width="20">
+  <img src="https://raw.githubusercontent.com/seansqlifting29/exampleApp/main/reacto/images/WhatsApp%20Image%202023-10-24%20at%2023.19.35_ca53a307.jpg" alt="Image 1 Description" width="450">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/seansqlifting29/exampleApp/blob/main/reacto/images/WhatsApp%20Image%202023-10-25%20at%2018.21.56_0e227dda.jpg" alt="Image 2 Description" width="450">
 </p>
-
 
 
 ## Future Plans
