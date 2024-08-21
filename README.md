@@ -65,8 +65,8 @@ During this project, I also became familiar with Android Studio and how to set u
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/seansqlifting29/exampleApp/main/reacto/images/WhatsApp%20Image%202023-10-24%20at%2023.19.35_ca53a307.jpg" alt="Image 1 Description" width="550">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/seansqlifting29/exampleApp/blob/main/reacto/images/WhatsApp%20Image%202023-10-25%20at%2018.21.56_0e227dda.jpg" alt="Image 2 Description" width="550">
+  <img src="https://raw.githubusercontent.com/seansqlifting29/exampleApp/main/reacto/images/WhatsApp%20Image%202023-10-24%20at%2023.19.35_ca53a307.jpg" alt="Image 1 Description" width="500">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/seansqlifting29/exampleApp/blob/main/reacto/images/WhatsApp%20Image%202023-10-25%20at%2018.21.56_0e227dda.jpg" alt="Image 2 Description" width="500">
 </p>
 
 
