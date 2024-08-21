@@ -1,6 +1,8 @@
 # My First React Native Expo Project
 
-![React Native Expo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native Logo" width="100" height="100">
+</p>
 
 **Welcome!** This project is a simple template that I created to kickstart my journey with React Native and Expo. It's the starting point of many more projects to come, and I look forward to reflecting back on this after gaining a few years of experience as a developer. The only way from here is up!
 
@@ -31,15 +33,23 @@ Getting this Expo project up and running was an exciting challenge and a valuabl
 3. **Setting Environment Variables**
     - Ensuring my system had the right environment variables set up correctly was necessary. This step involved configuring paths for various tools I installed.
 
-4. **Overcoming Hurdles**
+4. **Understanding JavaScript Module Bundlers**
+    - During this process, I learned about how JavaScript module bundlers work, which handle transforming and bundling JavaScript files for use in a web browser. This was key in understanding how my code was being executed.
+
+5. **Overcoming Hurdles**
     - Setting up my development environment involved troubleshooting a few issues with global installs and system pathways. I learned to check and adjust environment variables, which was a rewarding hurdle to overcome.
 
-5. **Running My First Application**
+6. **Running My First Application**
     - Once everything was set up, I was able to run my first Expo project smoothly:
       ```bash
       expo start
       ```
     - I then used the Expo Go app on my device to see my project come to life by scanning the QR code.
+
+<p align="center">
+  <img src="https://example.com/finished-product-photo1.png" alt="Finished Product Photo 1" width="300">
+  <img src="https://example.com/finished-product-photo2.png" alt="Finished Product Photo 2" width="300">
+</p>
 
 ## Future Plans
 
@@ -52,6 +62,7 @@ I am excited to connect and share my journey. Feel free to reach out!
 Your Name - [yourname@example.com](mailto:yourname@example.com)
 
 Project Link: [https://github.com/yourusername/yourrepository](https://github.com/yourusername/yourrepository)
+
 
 
 
