@@ -1,4 +1,4 @@
-# Project Title
+# Example App using Expo
 
 ![Project Logo](https://example.com/logo.png)
 
