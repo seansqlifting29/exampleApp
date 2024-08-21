@@ -64,7 +64,7 @@ During this project, I also became familiar with Android Studio and how to set u
 - **Creating and Using Emulators**: Set up emulators to test the app, which helped simulate various device environments.
 
 <p align="center">
-  <img src="https://github.com/yourusername/yourrepository/blob/main/images/android-studio-emulator-setup.png" alt="Android Studio Emulator Setup" width="300">
+  <img src="[https://github.com/yourusername/yourrepository/blob/main/images/android-studio-emulator-setup.png](https://github.com/seansqlifting29/exampleApp/blob/main/reacto/images/WhatsApp%20Image%202023-10-24%20at%2023.19.35_ca53a307.jpg)" alt="Android Studio Emulator Setup" width="300">
 </p>
 
 ## Future Plans
