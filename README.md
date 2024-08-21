@@ -1,4 +1,4 @@
-# My First React Native Expo Project
+# Sean's First React Native Expo Project
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native Logo" width="100" height="100">
@@ -9,6 +9,7 @@
 ## Table of Contents
 - [About This Project](#about-this-project)
 - [My Setup Journey](#my-setup-journey)
+- [Learning Android Studio and Emulators](#learning-android-studio-and-emulators)
 - [Future Plans](#future-plans)
 - [Contact](#contact)
 
@@ -46,9 +47,16 @@ Getting this Expo project up and running was an exciting challenge and a valuabl
       ```
     - I then used the Expo Go app on my device to see my project come to life by scanning the QR code.
 
+## Learning Android Studio and Emulators
+
+During this project, I also became familiar with Android Studio and how to set up emulators on my machine. This was crucial for testing mobile applications without needing a physical device. Here’s what I documented:
+
+- **Setting Up Android Studio**: Installed Android Studio and configured it to create virtual devices.
+- **Creating and Using Emulators**: Set up emulators to test the app, which helped simulate various device environments.
+
 <p align="center">
-  <img src="https://example.com/finished-product-photo1.png" alt="Finished Product Photo 1" width="300">
-  <img src="https://example.com/finished-product-photo2.png" alt="Finished Product Photo 2" width="300">
+  <img src="https://github.com/yourusername/yourrepository/blob/main/images/android-studio-setup.png" alt="Android Studio Setup" width="300">
+  <img src="https://github.com/yourusername/yourrepository/blob/main/images/emulator-running.png" alt="Emulator Running" width="300">
 </p>
 
 ## Future Plans
@@ -59,9 +67,9 @@ This project marks the beginning of my development path. I aim to gradually add 
 
 I am excited to connect and share my journey. Feel free to reach out!
 
-Your Name - [yourname@example.com](mailto:yourname@example.com)
+Your Name - [styndale.gtalum@gmail.com](mailto:styndale.gtalum@gmail.com)
 
-Project Link: [https://github.com/yourusername/yourrepository](https://github.com/yourusername/yourrepository)
+Project Link: [https://github.com/seansqlifting29/exampleApp](https://github.com/seansqlifting29/exampleApp)
 
 
 
